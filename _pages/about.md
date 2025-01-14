@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Li Hanqian(李翰乾).I am now a senior undergraduate student majoring in Automation at Shandong University. My research interests focus on trustworthy large language models and computer vision.
+Hi! My name is Li Hanqian(李翰乾). I am now a senior undergraduate student majoring in Automation at Shandong University. My research interests focus on **trustworthy large language models** and **computer vision**.
 
 A data-driven personal website
 ======
