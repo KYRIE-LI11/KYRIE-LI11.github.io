@@ -16,8 +16,7 @@ My research interests focus on **trustworthy large language models** and **compu
 - [2025.04] A paper on enhancing LLMs for structured knowledge has been accepted at [SIGIR 2025](https://sigir2025.dei.unipd.it/).
 
 ## 📖 Educations
-- 2021.09 - present, Undergraduate Student, Shandong University
-
+- 2021.09 - 2025.06, Undergraduate Student, Shandong University
 
 ##  🖥️ Internship
-- 2024.02 - present, Research Intern, HKUST(GZ)
+- 2024.02 - 2025.06, Research Intern, HKUST(GZ)
