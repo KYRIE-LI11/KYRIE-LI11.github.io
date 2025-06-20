@@ -12,6 +12,7 @@ Hi!👋 My name is Hanqian Li(李翰乾). I am a senior undergraduate student ma
 My research interests focus on **trustworthy large language models** and **computer vision**. Currently, I am particularly interested in **text watermark in large language models** and **video watermark**, and I am conducting in-depth research in these areas.
 
 ## 🔥 News
+- [2025.06] I have graduated from Shandong University, majoring in Automation Engineering.🎓
 - [2025.04] A paper on enhancing LLMs for structured knowledge has been accepted at [SIGIR 2025](https://sigir2025.dei.unipd.it/).
 
 ## 📖 Educations
