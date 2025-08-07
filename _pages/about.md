@@ -102,7 +102,7 @@ My research interests focus on **trustworthy large language models** and **multi
 
 .paper-venue {
   color: #0e82c5ff;
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+  /*font-family: 'Comic Sans MS', cursive, sans-serif;*/
   font-size: 1.3rem;
   margin: 8px 0;
   font-weight: 500;
