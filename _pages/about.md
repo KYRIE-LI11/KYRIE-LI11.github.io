@@ -11,7 +11,7 @@ redirect_from:
 Hi!👋 My name is Hanqian Li(李翰乾). I am currently an **M.Phil student** in the **AI Thrust, Information Hub** at the **Hong Kong University of Science and Technology (Guangzhou)**, supervised by [Prof. Xuming Hu](https://xuminghu.github.io/).  Previously, I received my **B.Eng. degree in Automation** from **Shandong University (SDU)**.I am honored to collaborate with [Dr. Aiwei Liu](https://exlaw.github.io/), [Dr. Sirui Huang](https://scholar.google.com.hk/citations?user=IL98pCsAAAAJ&hl=zh-CN), and [Dr. Jungang Li](https://openreview.net/profile?id=~Jungang_Li1) on research projects.
 
 My research interests focus on **trustworthy large language models** and **multimodal video understanding**. Currently, I am focusing on topics such as text watermarking in LLMs and video watermarking, and I am conducting in-depth research in these areas. I am happy to chat and **collaborate** on research. Feel free to contact me at my email.
-<div>
+</div>
 
 ## 🔥 News
 - [2025.06] I have graduated from Shandong University, majoring in Automation Engineering.🎓
@@ -102,7 +102,7 @@ My research interests focus on **trustworthy large language models** and **multi
 
 .paper-venue {
   color: #0e82c5ff;
-  /*font-family: 'Comic Sans MS', cursive, sans-serif;*/
+  font-family: 'Comic Sans MS', cursive, sans-serif;
   font-size: 1.3rem;
   margin: 8px 0;
   font-weight: 500;
