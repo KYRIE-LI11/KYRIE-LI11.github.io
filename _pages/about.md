@@ -6,16 +6,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <div class="intro-container">
+  <p>Hi!👋 My name is Hanqian Li(李翰乾). I am currently an <strong>M.Phil student</strong> in the <strong>AI Thrust, Information Hub</strong> at the <strong>Hong Kong University of Science and Technology (Guangzhou)</strong>, supervised by <a href="https://xuminghu.github.io/">Prof. Xuming Hu</a>. Previously, I received my <strong>B.Eng. degree in Automation</strong> from <strong>Shandong University (SDU)</strong>. I am honored to collaborate with <a href="https://exlaw.github.io/">Dr. Aiwei Liu</a>, <a href="https://scholar.google.com.hk/citations?user=IL98pCsAAAAJ&hl=zh-CN">Dr. Sirui Huang</a>, and <a href="https://openreview.net/profile?id=~Jungang_Li1">Dr. Jungang Li</a> on research projects.</p>
 
-Hi!👋 My name is Hanqian Li(李翰乾). I am currently an **M.Phil student** in the **AI Thrust, Information Hub** at the **Hong Kong University of Science and Technology (Guangzhou)**, supervised by [Prof. Xuming Hu](https://xuminghu.github.io/).  Previously, I received my **B.Eng. degree in Automation** from **Shandong University (SDU)**.I am honored to collaborate with [Dr. Aiwei Liu](https://exlaw.github.io/), [Dr. Sirui Huang](https://scholar.google.com.hk/citations?user=IL98pCsAAAAJ&hl=zh-CN), and [Dr. Jungang Li](https://openreview.net/profile?id=~Jungang_Li1) on research projects.
-
-My research interests focus on **trustworthy large language models** and **multimodal video understanding**. Currently, I am focusing on topics such as text watermarking in LLMs and video watermarking, and I am conducting in-depth research in these areas. I am happy to chat and **collaborate** on research. Feel free to contact me at my email.
+  <p>My research interests focus on <strong>trustworthy large language models</strong> and <strong>multimodal video understanding</strong>. Currently, I am focusing on topics such as text watermarking in LLMs and video watermarking, and I am conducting in-depth research in these areas. I am happy to chat and <strong>collaborate</strong> on research. Feel free to contact me at my email.</p>
 </div>
 
-## 🔥 News
-- [2025.06] I have graduated from Shandong University, majoring in Automation Engineering.🎓
-- [2025.04] A paper on enhancing LLMs for structured knowledge has been accepted at [SIGIR 2025](https://sigir2025.dei.unipd.it/).
+
+<h2 class="section-title">🔥 News</h2>
+<ul class="news-container">
+  <li class="news-item">
+    <span class="news-date">[2025.06]</span>
+    I have graduated from Shandong University, majoring in Automation Engineering. 🎓
+  </li>
+  <li class="news-item">
+    <span class="news-date">[2025.04]</span>
+    A paper on enhancing LLMs for structured knowledge has been accepted at
+    <a href="https://sigir2025.dei.unipd.it/" class="news-link">SIGIR 2025</a>.
+  </li>
+</ul>
+
+
 
 ## 📕 Publications
 
@@ -35,12 +47,23 @@ My research interests focus on **trustworthy large language models** and **multi
   </div>
 </div>
 
-## 📖 Educations
-- 2025.08 - present, M.Phil Student, HKUST(GZ)
-- 2021.09 - 2025.06, Undergraduate Student, Shandong University
+<h2 class="section-title">📖 Educations</h2>
+<ul class="edu-container">
+  <li class="edu-item">
+    <span class="edu-date">2025.08 - present</span>, M.Phil Student, <span class="edu-school">HKUST (GZ)</span>
+  </li>
+  <li class="edu-item">
+    <span class="edu-date">2021.09 - 2025.06</span>, Undergraduate Student, <span class="edu-school">Shandong University</span>
+  </li>
+</ul>
 
-##  🖥️ Internship
-- 2024.02 - 2025.06, Research Intern, HKUST(GZ)
+<h2 class="section-title">🖥️ Internship</h2>
+<ul class="intern-container">
+  <li class="intern-item">
+    <span class="intern-date">2024.02 - 2025.06</span>, Research Intern, <span class="intern-org">HKUST (GZ)</span>
+  </li>
+</ul>
+
 
 
 <style>
