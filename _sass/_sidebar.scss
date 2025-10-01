@@ -76,7 +76,7 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
+/*.author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
@@ -96,6 +96,29 @@
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
+    }
+  }
+}
+*/
+.author__avatar {
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+    margin: 0 auto;       // 居中
+    float: none !important;
+    text-align: center;    // 保险起见
+  }
+
+  img {
+    max-width: 175px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+      display: block;
+      margin: 0 auto;    // 确保 img 居中
     }
   }
 }
