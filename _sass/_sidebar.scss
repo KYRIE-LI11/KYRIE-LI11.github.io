@@ -100,25 +100,6 @@
   }
 }
 
-/*.author__avatar-container {
-  @include breakpoint($large) {
-    margin-left: 0 !important;   // 清除父容器 prefix 的偏移
-    margin-right: 0 !important;  // 清除父容器 suffix 的偏移
-  }
-
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-      display: block;
-      margin: 0 auto;    // 确保 img 居中
-    }
-  }
-}
-*/
 .author__content {
   display: table-cell;
   vertical-align: top;
