@@ -76,7 +76,7 @@
    Author profile and links
    ========================================================================== */
 
-/*.author__avatar {
+.author__avatar {
   display: table-cell;
   vertical-align: top;
   width: 36px;
@@ -99,15 +99,11 @@
     }
   }
 }
-*/
-.author__avatar {
+
+/*.author__avatar-container {
   @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-    margin: 0 auto;       // 居中
-    float: none !important;
-    text-align: center;    // 保险起见
+    margin-left: 0 !important;   // 清除父容器 prefix 的偏移
+    margin-right: 0 !important;  // 清除父容器 suffix 的偏移
   }
 
   img {
@@ -122,7 +118,7 @@
     }
   }
 }
-
+*/
 .author__content {
   display: table-cell;
   vertical-align: top;
