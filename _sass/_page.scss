@@ -18,7 +18,7 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(12 of 12);  // 占满
+    @include span(11 of 12);  // 占满
     @include prefix(0);       // 不偏移
     @include suffix(0);       // 不偏移
   }
