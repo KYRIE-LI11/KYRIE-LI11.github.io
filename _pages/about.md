@@ -8,9 +8,16 @@ redirect_from:
 ---
 
 <div class="intro-container">
-  <p>Hi!👋 My name is Hanqian Li(李翰乾). I am currently an <strong>M.Phil student</strong> in the <strong>AI Thrust, Information Hub</strong> at the <strong>Hong Kong University of Science and Technology (Guangzhou)</strong>, supervised by <a href="https://xuminghu.github.io/">Prof. Xuming Hu</a>. Previously, I received my <strong>B.Eng. degree in Automation</strong> from <strong>Shandong University (SDU)</strong>. I am honored to collaborate with <a href="https://exlaw.github.io/">Dr. Aiwei Liu</a>, <a href="https://scholar.google.com.hk/citations?user=IL98pCsAAAAJ&hl=zh-CN">Dr. Sirui Huang</a>, and <a href="https://openreview.net/profile?id=~Jungang_Li1">Dr. Jungang Li</a> on research projects.</p>
+  <p>Hi!👋 My name is Hanqian Li(李翰乾). I am currently an <strong>M.Phil student</strong> in the <strong>AI Thrust, Information Hub</strong> at the <strong>HKUST(GZ)</strong>, supervised by <a href="https://xuminghu.github.io/">Prof. Xuming Hu</a>. Previously, I received my <strong>B.Eng. degree in Automation</strong> from <strong>Shandong University (SDU)</strong> in 2025. 
+  
+  My research interests include:
+  <ul>
+    <li>Watermarking for generative models, including watermark for LLMs and diffusion models.</li>
+    <li>Enhancing reasoning ability of LLMs, including VLMs</li>
+  </ul>
+  
 
-  <p>My research interests focus on <strong>trustworthy large language models</strong> and <strong>multimodal video understanding</strong>. Currently, I am focusing on topics such as text watermarking in LLMs and video watermarking, and I am conducting in-depth research in these areas. I am happy to chat and <strong>collaborate</strong> on research. Feel free to contact me at my email.</p>
+  </p>I am honored to collaborate with <a href="https://exlaw.github.io/">Dr. Aiwei Liu</a>, <a href="https://scholar.google.com.hk/citations?user=IL98pCsAAAAJ&hl=zh-CN">Dr. Sirui Huang</a>, and <a href="https://openreview.net/profile?id=~Jungang_Li1">Jungang Li</a> on research projects. I am happy to chat and <strong>collaborate</strong> on research. Feel free to contact me at my email.</p>
 </div>
 
 
@@ -38,11 +45,27 @@ redirect_from:
 
   <div class="paper-text">
     <div class="paper-title">HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge</div>
-    <p class="paper-authors">Sirui Huang†, <strong style="text-decoration-line: underline;">Hanqian Li†</strong>, Yanggan Gu, Xuming Hu, Qing Li, Guandong Xu</p>
-    <p class="paper-venue">SIGIR 2025</p>
+    <p class="paper-authors">Sirui Huang*, <strong style="text-decoration-line: underline;">Hanqian Li*</strong>, Yanggan Gu, Xuming Hu, Qing Li, Guandong Xu</p>
+    <p class="paper-venue">Proceedings of SIGIR 2025</p>
     <p class="paper-links">
       <a href="https://dl.acm.org/doi/10.1145/3726302.3730002">[Paper]</a>
       <a href="https://github.com/s1ruihuang/HyperG">[Code]</a>
+    </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <div class="paper-image">
+    <img src="images/VideoMark.jpg" alt="VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models">
+  </div>
+
+  <div class="paper-text">
+    <div class="paper-title">VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models</div>
+    <p class="paper-authors">Xuming Hu*, <strong style="text-decoration-line: underline;">Hanqian Li*</strong>, Jungang Li*, Yu Huang, Shuliang Liu, Aiwei Liu</p>
+    <p class="paper-venue">arXiv preprint. 2504.16359</p>
+    <p class="paper-links">
+      <a href="https://arxiv.org/pdf/2504.16359">[Paper]</a>
+      <a href="https://github.com/KYRIE-LI11/VideoMark">[Code]</a>
     </p>
   </div>
 </div>
@@ -60,10 +83,24 @@ redirect_from:
 <h2 class="section-title">🖥️ Internship</h2>
 <ul class="intern-container">
   <li class="intern-item">
+    <span class="intern-date">2025.10 - present</span>, Research Intern, <span class="intern-org">Ant Group</span>
+  </li>
+  <li class="intern-item">
     <span class="intern-date">2024.02 - 2025.06</span>, Research Intern, <span class="intern-org">HKUST (GZ)</span>
   </li>
 </ul>
 
+<h2 class="section-title">📝 Reviewing Services</h2>
+<ul class="service-container">
+  <li class="service-item">
+    <strong>Conferences:</strong> 
+    ICME 2025, AAAI 2026, AAAI 2025 Workshop on PDLM
+  </li>
+  <li class="service-item">
+    <strong>Journals:</strong> 
+    IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  </li>
+</ul>
 
 
 <style>
@@ -124,9 +161,10 @@ redirect_from:
 }
 
 .paper-venue {
-  color: #0e82c5ff;
-  font-family: 'Comic Sans MS', cursive, sans-serif;
-  font-size: 1.3rem;
+  color: #505053ff;
+  font-family: "Microsoft YaHei";
+  font-style: italic;
+  font-size: 1rem;
   margin: 8px 0;
   font-weight: 500;
 }
