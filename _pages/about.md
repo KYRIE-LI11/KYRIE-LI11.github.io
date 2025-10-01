@@ -8,17 +8,27 @@ redirect_from:
 ---
 
 <div class="intro-container">
-  <p>Hi!👋 My name is Hanqian Li(李翰乾). I am currently an <strong>M.Phil student</strong> in the <strong>AI Thrust, Information Hub</strong> at the <strong>HKUST(GZ)</strong>, supervised by <a href="https://xuminghu.github.io/">Prof. Xuming Hu</a>. Previously, I received my <strong>B.Eng. degree in Automation</strong> from <strong>Shandong University (SDU)</strong> in 2025. 
-  
-  My research interests include:
+  <p>
+    Hi!👋 My name is Hanqian Li (李翰乾). I am currently an <strong>M.Phil student</strong> in the
+    <strong>AI Thrust, Information Hub</strong> at the <strong>HKUST(GZ)</strong>, supervised by
+    <a href="https://xuminghu.github.io/">Prof. Xuming Hu</a>. Previously, I received my
+    <strong>B.Eng. degree in Automation</strong> from <strong>Shandong University (SDU)</strong> in 2025.
+  </p>
+
+  <p>My research interests include:</p>
   <ul>
     <li>Watermarking for generative models, including watermark for LLMs and diffusion models.</li>
     <li>Enhancing reasoning ability of LLMs, including VLMs</li>
   </ul>
-  
 
-  </p>I am honored to collaborate with <a href="https://exlaw.github.io/">Dr. Aiwei Liu</a>, <a href="https://scholar.google.com.hk/citations?user=IL98pCsAAAAJ&hl=zh-CN">Dr. Sirui Huang</a>, and <a href="https://openreview.net/profile?id=~Jungang_Li1">Jungang Li</a> on research projects. I am happy to chat and <strong>collaborate</strong> on research. Feel free to contact me at my email.</p>
+  <p>
+    I am honored to collaborate with <a href="https://exlaw.github.io/">Dr. Aiwei Liu</a>,
+    <a href="https://scholar.google.com.hk/citations?user=IL98pCsAAAAJ&hl=zh-CN">Dr. Sirui Huang</a>, and
+    <a href="https://openreview.net/profile?id=~Jungang_Li1">Jungang Li</a> on research projects. 
+    I am happy to chat and <strong>collaborate</strong> on research. Feel free to contact me at my email.
+  </p>
 </div>
+
 
 
 <h2 class="section-title">🔥 News</h2>
@@ -101,6 +111,7 @@ redirect_from:
     IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   </li>
 </ul>
+
 
 
 <style>
