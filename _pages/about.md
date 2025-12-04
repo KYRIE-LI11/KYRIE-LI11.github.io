@@ -11,14 +11,15 @@ redirect_from:
   <p>
     Hi!👋 My name is Hanqian Li (李翰乾). I am currently an <strong>M.Phil student</strong> in the
     <strong>AI Thrust, Information Hub</strong> at the <strong>HKUST(GZ)</strong>, supervised by
-    <a href="https://xuminghu.github.io/">Prof. Xuming Hu</a>. Previously, I received my
-    <strong>B.Eng. degree in Automation</strong> from <strong>Shandong University (SDU)</strong> in 2025.
+    <a href="https://xuminghu.github.io/">Prof. Xuming Hu</a> and <a href="https://www.hkust-gz.edu.cn/zh/people/hui-xiong/">Prof. Hui Xiong</a>(AAAS, AAAI, IEEE Fellow). I am also a research intern in the <a href="https://www.antgroup.com/en/news-media/press-releases/1763427600000"> Lingguang Team</a> at Ant Group(Alibaba). 
+    Previously, I received my B.Eng. degree from <strong>Shandong University (SDU)</strong>, supervised by
+    <a href="https://control.sdu.edu.cn/info/1084/6713.htm">Prof. Jinglin Zhang</a>.
   </p>
 
   <p>My research interests include:</p>
   <ul>
     <li>Watermarking for generative models, including watermark for LLMs and diffusion models.</li>
-    <li>Enhancing reasoning ability of LLMs, including VLMs</li>
+    <li>Enhancing reasoning ability of LLMs, including MLLMs.</li>
   </ul>
 
   <p>
@@ -80,31 +81,37 @@ redirect_from:
   </div>
 </div>
 
+
 <h2 class="section-title">📖 Educations</h2>
 <ul class="edu-container">
   <li class="edu-item">
     <span class="edu-date">2025.08 - present</span>, M.Phil Student, <span class="edu-school">HKUST (GZ)</span>
   </li>
   <li class="edu-item">
-    <span class="edu-date">2021.09 - 2025.06</span>, Undergraduate Student, <span class="edu-school">Shandong University</span>
+    <span class="edu-date">2021.09 - 2025.06</span>, B.Eng. in Automation, <span class="edu-school">Shandong University</span>
   </li>
 </ul>
 
 <h2 class="section-title">🖥️ Internship</h2>
 <ul class="intern-container">
   <li class="intern-item">
-    <span class="intern-date">2025.10 - present</span>, Research Intern, <span class="intern-org">Ant Group</span>
+    <span class="intern-date">2025.10 - present</span>, Research Intern, 
+    <span class="intern-org">Ant Group</span><br>
+    <span class="intern-sv">Supervisor: Mr. Wei Zhou(Principal Researcher)</span>
   </li>
   <li class="intern-item">
-    <span class="intern-date">2024.02 - 2025.06</span>, Research Intern, <span class="intern-org">HKUST (GZ)</span>
+    <span class="intern-date">2024.02 - 2025.06</span>, Research Intern, 
+    <span class="intern-org">HKUST (GZ)</span><br>
+    <span class="intern-sv">Supervisor: Prof. Xuming Hu</span>
   </li>
 </ul>
+
 
 <h2 class="section-title">📝 Reviewing Services</h2>
 <ul class="service-container">
   <li class="service-item">
     <strong>Conferences:</strong> 
-    ICME 2025, AAAI 2026, AAAI 2025 Workshop on PDLM
+    ICME (2025,2026), AAAI (2026), AAAI (2025 Workshop on PDLM)
   </li>
   <li class="service-item">
     <strong>Journals:</strong> 
@@ -131,7 +138,7 @@ redirect_from:
 
 
 .paper-image {
-  flex: 0 0 350px;
+  flex: 0 0 500px;
   min-width: 0;
   display: flex;
   align-items: center;
@@ -157,7 +164,7 @@ redirect_from:
 
 .paper-title {
   font-weight: 500;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   margin: 0 0 8px 0;
   color: #000;
   line-height: 1.2;
@@ -205,4 +212,9 @@ redirect_from:
   border-color: #d5d5d5;
   transform: translateY(-1px);
   box-shadow: 0 3px 5px rgba(99,41,145,0.15);
+}
+
+.intern-sv {
+  font-size: 0.9em;
+  color: #666;
 }
