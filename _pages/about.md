@@ -7,6 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<script>
+    window.MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+    };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 <div class="intro-container">
   <p>
     Hi!👋 My name is Hanqian Li (李翰乾). I am currently an <strong>M.Phil student</strong> in the
@@ -69,10 +78,18 @@ redirect_from:
   <div class="paper-image">
     <img src="images/VideoMark.jpg" alt="VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models">
   </div>
-
   <div class="paper-text">
     <div class="paper-title">VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models</div>
-    <p class="paper-authors">Xuming Hu*, <strong style="text-decoration-line: underline;">Hanqian Li*</strong>, Jungang Li*, Yu Huang, Shuliang Liu, Aiwei Liu</p>
+    <p class="paper-authors">
+      <strong style="text-decoration-line: underline;">Hanqian Li*</strong>,
+      Aiwei Liu*<sup>&dagger;</sup>,
+      Jungang Li*,
+      Yu Huang,
+      Shuliang Liu,
+      Qi Zheng,
+      Junhao Chen,
+      Xuming Hu<sup>&dagger;</sup>
+    </p>
     <p class="paper-venue">arXiv preprint. 2504.16359</p>
     <p class="paper-links">
       <a href="https://arxiv.org/pdf/2504.16359">[Paper]</a>
@@ -81,6 +98,25 @@ redirect_from:
   </div>
 </div>
 
+<div class="paper-container">
+  <div class="paper-image">
+    <img src="images/RTV_bench.png" alt="RTV-Bench Visualization">
+  </div>
+
+  <div class="paper-text">
+    <div class="paper-title">
+      $\mathcal{RTV}\text{-}Bench$: Benchmarking MLLM Continuous Perception, Understanding and Reasoning through $\mathcal{R}$eal-$\mathcal{T}$ime $\mathcal{V}$ideo
+    </div>
+    <p class="paper-authors">
+      Shuhang Xun, Sicheng Tao, Jungang Li, Yibo Shi, Zhixin Lin, Zhanhui Zhu, Yibo Yan, <strong style="text-decoration-line: underline;">Hanqian Li</strong>, Linghao Zhang, Shikang Wang, Yixin Liu, Hanbo Zhang, Ying Ma, Xuming Hu
+    </p>
+    <p class="paper-venue">NeurIPS 2025</p>
+    <p class="paper-links">
+      <a href="https://arxiv.org/abs/2505.02064" target="_blank">[Paper]</a>
+      <a href="https://ljungang.github.io/RTV-Bench/" target="_blank">[Code]</a>
+    </p>
+  </div>
+</div>
 
 <h2 class="section-title">📖 Educations</h2>
 <ul class="edu-container">
