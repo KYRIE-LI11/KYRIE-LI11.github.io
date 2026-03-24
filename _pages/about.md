@@ -118,6 +118,23 @@ redirect_from:
   </div>
 </div>
 
+<div class="paper-container">
+  <div class="paper-image">
+    <img src="images/AVSA_watermark.png" alt="A Visual Semantic Adaptive Watermark grounded by Prefix-Tuning for Large Vision-Language Model">
+  </div>
+
+  <div class="paper-text">
+    <div class="paper-title">A Visual Semantic Adaptive Watermark grounded by Prefix-Tuning for Large Vision-Language Model</div>
+    <p class="paper-authors">
+      Qi Zheng, Shuliang Liu, Yu Huang, Sihang Jia, Jungang Li, Lyuhao Chen, Junhao Chen, <strong style="text-decoration-line: underline;">Hanqian Li</strong>, Aiwei Liu, Yibo Yan, Xuming Hu
+    </p>
+    <p class="paper-venue">CVPR 2026</p>
+    <p class="paper-links">
+      <a href="https://arxiv.org/pdf/2601.07291" target="_blank">[Paper]</a>
+    </p>
+  </div>
+</div>
+
 <h2 class="section-title">📖 Educations</h2>
 <ul class="edu-container">
   <li class="edu-item">
