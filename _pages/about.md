@@ -44,6 +44,11 @@ redirect_from:
 <h2 class="section-title">🔥 News</h2>
 <ul class="news-container">
   <li class="news-item">
+    <span class="news-date">[2026.08]</span>
+    Three papers have been accepted at
+    <a href="https://2026.emnlp.org/" class="news-link">EMNLP 2026</a>. 🎉
+  </li>
+  <li class="news-item">
     <span class="news-date">[2025.06]</span>
     I have graduated from Shandong University, majoring in Automation Engineering. 🎓
   </li>
@@ -66,10 +71,41 @@ redirect_from:
   <div class="paper-text">
     <div class="paper-title">HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge</div>
     <p class="paper-authors">Sirui Huang*, <strong style="text-decoration-line: underline;">Hanqian Li*</strong>, Yanggan Gu, Xuming Hu, Qing Li, Guandong Xu</p>
-    <p class="paper-venue">Proceedings of SIGIR 2025</p>
+    <p class="paper-venue">SIGIR 2025</p>
     <p class="paper-links">
       <a href="https://dl.acm.org/doi/10.1145/3726302.3730002">[Paper]</a>
       <a href="https://github.com/s1ruihuang/HyperG">[Code]</a>
+    </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <div class="paper-image">
+    <img src="images/CAIT.jpg" alt="Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes">
+  </div>
+
+  <div class="paper-text">
+    <div class="paper-title">Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes</div>
+    <p class="paper-authors">Chen Ling*, Tongwei Zhang*, <strong style="text-decoration-line: underline;">Hanqian Li*</strong>, Nai Ding<sup>&dagger;</sup></p>
+    <p class="paper-venue">EMNLP 2026</p>
+    <p class="paper-links">
+      <a href="https://arxiv.org/abs/2601.07737">[Paper]</a>
+    </p>
+  </div>
+</div>
+
+
+<div class="paper-container">
+  <div class="paper-image">
+    <img src="images/FFD.jpg" alt="Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes">
+  </div>
+
+  <div class="paper-text">
+    <div class="paper-title">Debias in Text, Believe Your Eyes: Text-Anchored Cross-Modal Transfer for Visual Counter-Commonsense Reasoning</div>
+    <p class="paper-authors">Chen Ling*, <strong style="text-decoration-line: underline;">Hanqian Li*</strong>, Dongnan Liu, Keyu Qian, Jungang Li, Shiyi Wang, Xin Dong, Pengcheng Zhu, Wei Zhou, Linjian Mo, Nai Ding<sup>&dagger;</sup></p>
+    <p class="paper-venue">arXiv preprint. 2608.06938</p>
+    <p class="paper-links">
+      <a href="https://arxiv.org/abs/2608.06938">[Paper]</a>
     </p>
   </div>
 </div>
