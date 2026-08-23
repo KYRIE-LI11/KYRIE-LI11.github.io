@@ -20,7 +20,7 @@ redirect_from:
   <p>
     Hi!👋 My name is Hanqian Li (李翰乾). I am currently an <strong>M.Phil student</strong> in the
     <strong>AI Thrust, Information Hub</strong> at the <strong>HKUST(GZ)</strong>, supervised by
-    <a href="https://xuminghu.github.io/">Prof. Xuming Hu</a> and <a href="https://www.hkust-gz.edu.cn/zh/people/hui-xiong/">Prof. Hui Xiong</a>(AAAS, AAAI, IEEE Fellow). I am also a research intern in the <a href="https://www.antgroup.com/en/news-media/press-releases/1763427600000"> Lingguang Team</a> at Ant Group(Alibaba). 
+    <a href="https://xuminghu.github.io/">Prof. Xuming Hu</a> and <a href="https://www.hkust-gz.edu.cn/zh/people/hui-xiong/">Prof. Hui Xiong</a>(AAAS, AAAI, IEEE Fellow).
     Previously, I received my B.Eng. degree from <strong>Shandong University (SDU)</strong>, supervised by
     <a href="https://control.sdu.edu.cn/info/1084/6713.htm">Prof. Jinglin Zhang</a>.
   </p>
@@ -200,7 +200,7 @@ redirect_from:
 <ul class="service-container">
   <li class="service-item">
     <strong>Conferences:</strong> 
-    ICME (2025,2026), AAAI (2026), AAAI (2025 Workshop on PDLM)
+    ICME, AAAI, NeurIPS, AAAI (2025 Workshop on PDLM)
   </li>
   <li class="service-item">
     <strong>Journals:</strong> 
