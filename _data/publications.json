@@ -1,0 +1,92 @@
+[
+  {
+    "title": "InterTab: Interleaved Visual-Structure Alignment for Multi-Modal Table Reasoning",
+    "authors": "<strong>Hanqian Li*</strong>, Sirui Huang*<sup>&dagger;</sup>, Chen Ling*, Jungang Li, Yu Huang, Kening Zheng, Yonghua Hei, Xiangrong He, Shiyi Wang, Pengcheng Zhu, Dongnan Liu, Wei Zhou, Linjian Mo, Nai Ding, Xuming Hu<sup>&dagger;</sup>",
+    "links": [],
+    "image": "/images/InterTab.png"
+  },
+  {
+    "title": "HyperG: Hypergraph-Enhanced LLMs for Structured Knowledge",
+    "authors": "Sirui Huang*, <strong>Hanqian Li*</strong>, Yanggan Gu, Xuming Hu, Qing Li, Guandong Xu",
+    "venue": "SIGIR 2025",
+    "image": "/images/hyperg.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://dl.acm.org/doi/10.1145/3726302.3730002"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/s1ruihuang/HyperG"
+      }
+    ]
+  },
+  {
+    "title": "Seeing vs. Believing: Evaluating the Language Bias of Open-Source MLLMs in Counter-Intuitive Scenes",
+    "authors": "Chen Ling*, Tongwei Zhang*, <strong>Hanqian Li*</strong>, Nai Ding<sup>&dagger;</sup>",
+    "venue": "EMNLP 2026",
+    "image": "/images/CAIT.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2601.07737"
+      }
+    ]
+  },
+  {
+    "title": "Debias in Text, Believe Your Eyes: Text-Anchored Cross-Modal Transfer for Visual Counter-Commonsense Reasoning",
+    "authors": "Chen Ling*, <strong>Hanqian Li*</strong>, Dongnan Liu, Keyu Qian, Jungang Li, Shiyi Wang, Xin Dong, Pengcheng Zhu, Wei Zhou, Linjian Mo, Nai Ding<sup>&dagger;</sup>",
+    "venue": "arXiv preprint. 2608.06938",
+    "image": "/images/FFD.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2608.06938"
+      }
+    ]
+  },
+  {
+    "title": "VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models",
+    "authors": "<strong>Hanqian Li*</strong>, Aiwei Liu*<sup>&dagger;</sup>, Jungang Li*, Yu Huang, Shuliang Liu, Qi Zheng, Junhao Chen, Xuming Hu<sup>&dagger;</sup>",
+    "venue": "arXiv preprint. 2504.16359",
+    "image": "/images/VideoMark.jpg",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/pdf/2504.16359"
+      },
+      {
+        "label": "Code",
+        "url": "https://github.com/KYRIE-LI11/VideoMark"
+      }
+    ]
+  },
+  {
+    "title": "RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and Reasoning through Real-Time Video",
+    "authors": "Shuhang Xun, Sicheng Tao, Jungang Li, Yibo Shi, Zhixin Lin, Zhanhui Zhu, Yibo Yan, <strong>Hanqian Li</strong>, Linghao Zhang, Shikang Wang, Yixin Liu, Hanbo Zhang, Ying Ma, Xuming Hu",
+    "venue": "NeurIPS 2025",
+    "image": "/images/RTV_bench.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/abs/2505.02064"
+      },
+      {
+        "label": "Code",
+        "url": "https://ljungang.github.io/RTV-Bench/"
+      }
+    ]
+  },
+  {
+    "title": "A Visual Semantic Adaptive Watermark grounded by Prefix-Tuning for Large Vision-Language Model",
+    "authors": "Qi Zheng, Shuliang Liu, Yu Huang, Sihang Jia, Jungang Li, Lyuhao Chen, Junhao Chen, <strong>Hanqian Li</strong>, Aiwei Liu, Yibo Yan, Xuming Hu",
+    "venue": "CVPR 2026",
+    "image": "/images/AVSA_watermark.png",
+    "links": [
+      {
+        "label": "Paper",
+        "url": "https://arxiv.org/pdf/2601.07291"
+      }
+    ]
+  }
+]

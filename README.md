@@ -1,3 +1,24 @@
+## Maintaining this homepage
+
+The homepage (`_pages/about.md`) and `/publications/` share the minimal layout
+in `_layouts/minimal.html` and styles in `assets/css/minimal.css`.
+
+### Add a publication
+
+Add an object to `_data/publications.json`; array order is display order on both pages.
+Each entry has `title`, `authors`, `venue`, optional `image` (e.g. `/images/paper.png`),
+and `links` (an array of `{ "label": "Paper", "url": "https://..." }`).
+Use `<strong>Hanqian Li</strong>` in authors to highlight the name and `<sup>†</sup>`
+for corresponding authors. Confirm author order and venue/status before adding a paper.
+The older `_publications/` collection remains for legacy URLs; it no longer drives these two pages.
+
+Build with `bundle exec jekyll build`, then preview with `bundle exec jekyll serve`.
+The design references are [Minimal Light](https://github.com/yaoyao-liu/minimal-light)
+and [Jon Barron's homepage](https://github.com/jonbarron/jonbarron.github.io);
+this layout is implemented locally without importing another theme.
+
+---
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 

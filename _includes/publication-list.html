@@ -1,0 +1,20 @@
+<div class="publications">
+{% for paper in site.data.publications %}
+  {% assign paper_url = paper.links.first.url %}
+  <article class="publication">
+    {% if paper.image %}
+      {% if paper_url %}
+        <a class="publication-image" href="{{ paper_url }}" tabindex="-1" aria-hidden="true"><img src="{{ paper.image | relative_url }}" alt="" loading="lazy" width="180" height="120"></a>
+      {% else %}
+        <div class="publication-image"><img src="{{ paper.image | relative_url }}" alt="{{ paper.title | escape }}" loading="lazy" width="180" height="120"></div>
+      {% endif %}
+    {% endif %}
+    <div class="publication-details">
+      <h3>{% if paper_url %}<a href="{{ paper_url }}">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</h3>
+      <p class="authors">{{ paper.authors }}</p>
+      {% if paper.venue %}<p class="venue">{{ paper.venue | escape }}</p>{% endif %}
+      {% if paper.links.size > 0 %}<div class="paper-links">{% for link in paper.links %}<a href="{{ link.url }}">{{ link.label | escape }} ↗</a>{% endfor %}</div>{% endif %}
+    </div>
+  </article>
+{% endfor %}
+</div>
