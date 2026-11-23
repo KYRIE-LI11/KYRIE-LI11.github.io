@@ -49,6 +49,11 @@ redirect_from:
 <h2>News</h2>
 <ul class="news-container">
   <li class="news-item">
+    <span class="news-date">[2026.11]</span>
+    VideoMark has been accepted at
+    <a href="https://jmlr.org/tmlr/" class="news-link">TMLR</a>. 🎉
+  </li>
+  <li class="news-item">
     <span class="news-date">[2026.08]</span>
     Three papers have been accepted at
     <a href="https://2026.emnlp.org/" class="news-link">EMNLP 2026</a>. 🎉
@@ -86,7 +91,7 @@ redirect_from:
 <h2 class="section-title">Experience</h2>
 <ul class="intern-container">
   <li class="intern-item">
-    <span class="intern-date">2026.10 · Incoming</span>, Research Intern,
+    <span class="intern-date">2026.10 - present</span>, Research Intern,
     <span class="intern-org">Alibaba Group</span><br>
     <span class="intern-sv">Supervisor: Dr. Xiaoxiao Xu</span>
   </li>
@@ -107,7 +112,7 @@ redirect_from:
 <ul class="service-container">
   <li class="service-item">
     <strong>Conferences:</strong> 
-    ICME, AAAI, NeurIPS, ICLR, AAAI (2025 Workshop on PDLM)
+    ICME, AAAI, NeurIPS, ICLR, ICASSP, CVPR, AAAI (2025 Workshop on PDLM)
   </li>
   <li class="service-item">
     <strong>Journals:</strong> 

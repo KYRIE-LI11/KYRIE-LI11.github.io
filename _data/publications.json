@@ -47,8 +47,8 @@
   },
   {
     "title": "VideoMark: A Distortion-Free Robust Watermarking Framework for Video Diffusion Models",
-    "authors": "<strong>Hanqian Li*</strong>, Aiwei Liu*<sup>&dagger;</sup>, Jungang Li*, Yu Huang, Shuliang Liu, Qi Zheng, Junhao Chen, Xuming Hu<sup>&dagger;</sup>",
-    "venue": "arXiv preprint. 2504.16359",
+    "authors": "<strong>Hanqian Li*</strong>, Aiwei Liu*<sup>&dagger;</sup>, Jungang Li*, Yu Huang, Chen Ling, Ye Pan, Shuliang Liu, Qi Zheng, Junhao Chen, Xuming Hu<sup>&dagger;</sup>",
+    "venue": "TMLR 2026",
     "image": "/images/VideoMark.jpg",
     "links": [
       {

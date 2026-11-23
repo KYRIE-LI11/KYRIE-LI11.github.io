@@ -2,6 +2,10 @@
 _site/
 .sass-cache/
 
+# Ignore local Ruby environment (bundler config and installed gems)
+.bundle/
+vendor/
+
 # Ignore the directory for local files during development
 local/
 
